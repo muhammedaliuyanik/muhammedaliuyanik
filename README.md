@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Frontend Dev. | AI | Recommender System | API</h3>
+<h3 align="center">Frontend Development | AI | Recommender System | API</h3>
 
 - 🔭 I’m currently working on **GuidesTurkiye** Mobile Application Project.
 
