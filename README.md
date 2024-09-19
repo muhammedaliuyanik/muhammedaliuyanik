@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Frontend Development | AI | Recommender System | API</h3>
+<h3 align="center">Backend | AI | Recommendation Systems</h3>
 
-- 🔭 I’m currently working on **GuidesTurkiye** Mobile Application Project.
+- 🔭 I finished **GuidesTurkiye** Mobile Application Project.
 
-- 🌱 I’m currently learning **Recommender System**
+- 🌱 I’m currently learning **NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@muhammedaliuyanik16](https://medium.com/@muhammedaliuyanik16)
 
