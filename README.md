@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muhammedaliuyanik16](https://medium.com/@muhammedaliuyanik16)
 
-- 📫 How to reach me **aliuyanik@outlook.com**
+- 📫 How to reach me **maliuyanik@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
