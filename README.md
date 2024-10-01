@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Backend | AI | Recommendation Systems</h3>
 
-- 🔭 I finished **GuidesTurkiye** Mobile Application Project. AI Based Travel Recommendation System Mobile App 
+- I finished **GuidesTurkiye** Mobile Application Project. AI Based Travel Recommendation System Mobile App 
 
-- 🌱 I’m currently working ** NLP | Computer Vision | Backend Services **
-
-- 📝 I regularly write articles on [https://medium.com/@muhammedaliuyanik16](https://medium.com/@muhammedaliuyanik16)
-
-- 📫 How to reach me **maliuyanik@outlook.com**
+- How to reach me **maliuyanik@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
